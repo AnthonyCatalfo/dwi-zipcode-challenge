@@ -1,0 +1,13 @@
+.App {
+  padding: 5vh 0;
+}
+
+.red-asterisk {
+  color: #d7182a;
+}
+
+.state-city-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
